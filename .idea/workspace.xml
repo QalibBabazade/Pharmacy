@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c1d2cd06-1aa9-4f0f-90ed-2c34795c9891" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SIGN_OFF_COMMIT" value="true" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="ProjectErrors" />
+  </component>
+  <component name="ProjectId" id="2EEQo210NeXxXpipcZ7c18VqI1T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.DirectoryMappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\qalib.babazade\Documents\Intelij Proyekt\SpringProyekt\Pharmacy\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="az.babazade.pharmacy.thread" />
+      <recent name="az.babazade.pharmacy.schedule" />
+      <recent name="az.babazade.pharmacy.mail" />
+      <recent name="az.babazade.pharmacy.config" />
+      <recent name="az.babazade.pharmacy.security" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PharmacyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="Pharmacy" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="az.babazade.pharmacy.PharmacyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c1d2cd06-1aa9-4f0f-90ed-2c34795c9891" name="Changes" comment="" />
+      <created>1662158439230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662158439230</updated>
+      <workItem from="1662158442503" duration="719000" />
+      <workItem from="1662169292905" duration="3720000" />
+      <workItem from="1662186807217" duration="298000" />
+      <workItem from="1662565580887" duration="602000" />
+      <workItem from="1662706430705" duration="9130000" />
+      <workItem from="1662737333818" duration="26655000" />
+      <workItem from="1663201256685" duration="62850000" />
+      <workItem from="1663352268242" duration="72000" />
+      <workItem from="1663352403626" duration="1709000" />
+      <workItem from="1663355990795" duration="76000" />
+      <workItem from="1663356110560" duration="240000" />
+      <workItem from="1663356457273" duration="202000" />
+      <workItem from="1663356723582" duration="291000" />
+      <workItem from="1663357330042" duration="359000" />
+      <workItem from="1663357751262" duration="143000" />
+      <workItem from="1663357917584" duration="131000" />
+      <workItem from="1663358113710" duration="10000" />
+      <workItem from="1663358320887" duration="286000" />
+      <workItem from="1663358672541" duration="623000" />
+      <workItem from="1663359350007" duration="114000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="121606d2-8f1c-449c-9fe9-ade5b10f4f37">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="1509ff82-7266-4a8c-8494-21286bf745c8">
+          <value>
+            <State />
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="ae048aed-5262-4576-902e-214d548fd6d8">
+          <value>
+            <State>
+              <option name="HIGHLIGHTERS">
+                <map>
+                  <entry key="MY_COMMITS" value="false" />
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="fa044ebb-f6ac-4354-98c5-9c150a074b6b">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+</project>
